@@ -196,14 +196,10 @@ Mobile
 The layout automatically changes for smaller screens.
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1280" height="640" alt="git (1)" src="https://github.com/shamil-smon/True-Friends/blob/main/a.png" />
+<img width="1280" height="640" alt="git (1)" src="https://github.com/shamil-smon/True-Friends/blob/main/b.png" />
+<img width="1280" height="640" alt="git (1)" src="https://github.com/shamil-smon/True-Friends/blob/main/c.png" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
